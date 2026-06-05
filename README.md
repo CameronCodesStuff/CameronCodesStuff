@@ -1,31 +1,96 @@
-# Hey, I'm Cameron 👋
+# 👋 Hey, I'm Cameron
 
-I'm a software developer who enjoys building useful tools, exploring new technologies, and turning ideas into working projects.
+I'm a full-stack developer focused on building real-time web applications with clean UI, fast performance, and scalable backend systems.
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 💻 Languages
+- Python 🐍 (Tkinter for desktop apps)
+- JavaScript (Vanilla ES Modules)
+- HTML5
+- CSS3
+- Batch scripting
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+---
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🎨 Frontend
+- HTML5 (semantic structure, accessibility)
+- CSS3  
+  - CSS Grid  
+  - Flexbox  
+  - Custom scrollbars  
+  - Mobile overlays / responsive UI systems  
+- Vanilla JavaScript (ES Modules)
+
+---
+
+## ⚙️ Backend & Realtime Systems
+- Firebase Auth (user authentication & sessions)
+- Firestore (real-time database with live listeners)
+- Real-time messaging, user presence, invites, and calls
+
+---
+
+## 🌐 Real-Time Communication
+- WebRTC (RTCPeerConnection)
+  - Audio calls
+  - Video calls
+  - Screen sharing
+- STUN / TURN server integration
+
+---
+
+## ☁️ Hosting & Tools
+- GitHub Pages (frontend deployment)
+- GitHub API (dynamic changelogs / updates)
+- Font Awesome (icons & UI enhancement)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=tokyonight)
+> ⚠️ If Top Languages is not working, it’s usually one of these:
+- wrong username
+- private repos not counted
+- cached badge issue
+- or theme endpoint glitch
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCodesStuff&layout=compact&theme=tokyonight)
+### 🔹 Stats Card
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🔹 Top Languages (FIXED VERSION)
+Try this instead:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCodesStuff&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+If it still doesn’t work, alternatives:
+- Replace username check
+- Try: `layout=donut`
+- Or use pinned repos instead (more reliable)
 
 ---
+
+## 🔥 What I Build
+- Real-time chat apps
+- WebRTC calling systems
+- Firebase-powered dashboards
+- Lightweight frontend tools
+- Desktop utilities with Tkinter
+
+---
+
+## 📌 Focus Areas
+- Real-time communication systems
+- Scalable Firebase architecture
+- Clean UI/UX design
+- Performance-first frontend engineering
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/CameronCodesStuff
+
+---
+
+> “Build fast. Keep it clean. Make it real-time.”
