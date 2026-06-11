@@ -145,6 +145,18 @@
 
 ---
 
+## ☕ Support My Work
+
+If you find my projects helpful and would like to support future development, consider buying me a coffee.
+
+<a href="https://buymeacoffee.com/cameroncodesstuff" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
+
+Your support helps me spend more time building open-source projects, creating tutorials, and sharing code with the community.
+
+---
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d1f2d,100:080c14&height=140&section=footer&animation=fadeIn" />
