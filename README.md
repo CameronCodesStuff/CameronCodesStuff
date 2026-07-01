@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8&ring_color=2dd4bf)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8)
 
 <div align="center">
 
