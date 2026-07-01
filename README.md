@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8)
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:0d1f2d,100:0a1628&height=220&section=header&text=Cameron&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Realtime%20Developer%20%7C%20Firebase%20Architect%20%7C%20WebRTC%20Engineer&descAlignY=58&descSize=16&descColor=2dd4bf" />
@@ -12,6 +10,7 @@
 ![Latency](https://img.shields.io/badge/%E2%9A%A1_TARGET_LATENCY-%7E18ms-a78bfa?style=flat-square&labelColor=080c14)
 ![Build](https://img.shields.io/badge/%F0%9F%9A%80_BUILD-SHIPPING-60a5fa?style=flat-square&labelColor=080c14)
 ![Realtime](https://img.shields.io/badge/%F0%9F%94%A5_REALTIME-ACTIVE-fb923c?style=flat-square&labelColor=080c14)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8)
 
 </div>
 
