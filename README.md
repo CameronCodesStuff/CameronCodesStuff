@@ -1,3 +1,5 @@
+![GitHub Stats](https://YOUR-VERCEL-APP.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8&ring_color=2dd4bf)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:0d1f2d,100:0a1628&height=220&section=header&text=Cameron&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Realtime%20Developer%20%7C%20Firebase%20Architect%20%7C%20WebRTC%20Engineer&descAlignY=58&descSize=16&descColor=2dd4bf" />
