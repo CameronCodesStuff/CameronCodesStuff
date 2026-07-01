@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,50:0d1f2d,100:0a1628&height=220&section=header&text=Cameron&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Realtime%20Developer%20%7C%20Firebase%20Architect%20%7C%20WebRTC%20Engineer&descAlignY=58&descSize=16&descColor=2dd4bf" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&height=36&lines=Frontend+Engineer+%E2%80%94+Zero+dependencies%2C+all+performance;Firebase+Realtime+Architect+%E2%80%94+Live+on+every+write;WebRTC+Specialist+%E2%80%94+P2P+or+it+didn%27t+happen;Backend+System+Builder+%E2%80%94+Event-driven+everything;Always+shipping+something+live..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&height=36&lines=Frontend+Engineer+%E2%80%94+Zero+dependencies%2C+all+performance;Firebase+Realtime+Architect+%E2%80%94+Live+on+every+write;WebRTC+Specialist+%E2%80%94+P2P+or+it+didn%27t+happen;Backend+System+Builder+%E2%80%94+Event-driven+everything;Always+shipping+something+live..." />
 
 <br/>
 
@@ -109,7 +109,7 @@
 
 <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8&ring_color=2dd4bf&cache_seconds=86400" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CameronCodesStuff&theme=react&hide_border=true&background=080c14&ring=2dd4bf&fire=fb923c&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=CameronCodesStuff&theme=react&hide_border=true&background=080c14&ring=2dd4bf&fire=fb923c&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
