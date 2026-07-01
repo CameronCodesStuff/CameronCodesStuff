@@ -107,7 +107,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8&ring_color=2dd4bf" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=CameronCodesStuff&show_icons=true&theme=react&hide_border=true&bg_color=080c14&title_color=2dd4bf&icon_color=a78bfa&text_color=94a3b8&ring_color=2dd4bf&cache_seconds=86400" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CameronCodesStuff&theme=react&hide_border=true&background=080c14&ring=2dd4bf&fire=fb923c&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff" />
 
