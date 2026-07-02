@@ -15,43 +15,6 @@
 
 ---
 
-## ⚙️ Engine Status
-
-| System | Stack | Status |
-|--------|-------|--------|
-| Firestore realtime listener | Firebase Firestore | ![](https://img.shields.io/badge/ACTIVE-2dd4bf?style=flat-square&labelColor=0d1117) |
-| WebRTC peer connections | STUN / TURN / ICE | ![](https://img.shields.io/badge/P2P%20LIVE-a78bfa?style=flat-square&labelColor=0d1117) |
-| Firebase Auth | Token-based sessions | ![](https://img.shields.io/badge/SECURED-fb923c?style=flat-square&labelColor=0d1117) |
-| Event-driven backend | Firestore triggers | ![](https://img.shields.io/badge/IN%20SYNC-60a5fa?style=flat-square&labelColor=0d1117) |
-| Deploy pipeline | GitHub Pages + API | ![](https://img.shields.io/badge/LIVE-2dd4bf?style=flat-square&labelColor=0d1117) |
-
----
-
-## 🧠 Architecture
-
-```
-▸ Frontend Layer
-  ├── HTML5          // semantic, zero framework
-  ├── CSS3           // grid + flex + custom overlays
-  └── Vanilla JS     // ES modules, zero deps
-
-▸ Backend Layer
-  ├── Firebase Auth  // sessions + tokens
-  ├── Firestore      // live onSnapshot listeners
-  └── Storage        // media + asset delivery
-
-▸ Communication Layer
-  ├── WebRTC         // peer-to-peer fabric
-  ├── STUN / TURN    // NAT traversal
-  └── A/V + Screen   // full media suite
-
-▸ Deployment Layer
-  ├── GitHub Pages   // zero-cost, zero-server
-  └── GitHub API     // integration + automation
-```
-
----
-
 ## 🛠️ Stack
 
 <div align="center">
