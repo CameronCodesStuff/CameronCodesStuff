@@ -39,29 +39,6 @@
 
 ---
 
-## 🚀 What I Build
-
-<div align="center">
-
-![WebRTC](https://img.shields.io/badge/WebRTC-Live%20Audio%20%2F%20Video%20%2F%20Screen-2dd4bf?style=for-the-badge&labelColor=0d1117)
-![Firestore](https://img.shields.io/badge/Firestore-Instant%20Sync%20Everywhere-a78bfa?style=for-the-badge&labelColor=0d1117)
-![Auth](https://img.shields.io/badge/Firebase%20Auth-Secure%20Sessions-fb923c?style=for-the-badge&labelColor=0d1117)
-![Frontend](https://img.shields.io/badge/Frontend-Zero%20Framework%20Speed-60a5fa?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 🔭 Current Focus
-
-| Area | Description |
-|------|-------------|
-| ⚡ **WebRTC performance** | Optimising peer signalling, reducing handshake latency, tuning ICE candidate logic |
-| 🔥 **Realtime app builds** | Shipping live, interactive apps where every user action reflects instantly |
-| 🧠 **Advanced JS systems** | Deep-diving event loops, memory management, and high-frequency update patterns |
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
