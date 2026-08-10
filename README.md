@@ -75,16 +75,6 @@
 
 ---
 
-## 💬 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-CameronCodesStuff-2dd4bf?style=for-the-badge&logo=github&logoColor=white&labelColor=080c14)](https://github.com/CameronCodesStuff)
-
-</div>
-
----
-
 ## ☕ Support My Work
 
 If you find my projects helpful and would like to support future development, consider buying me a coffee.
