@@ -63,18 +63,6 @@
 
 ---
 
-## 📡 Dev Vibes
-
-<div align="center">
-
-![Focus](https://img.shields.io/badge/FOCUS-100%25-2dd4bf?style=flat-square&labelColor=080c14)
-![Blue V](https://img.shields.io/badge/COFFEE-POWERED-fb923c?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=080c14)
-![Mode](https://img.shields.io/badge/MODE-BUILDING%20SOMETHING%20LIVE-a78bfa?style=flat-square&labelColor=080c14)
-
-</div>
-
----
-
 ## ☕ Support My Work
 
 If you find my projects helpful and would like to support future development, consider buying me a coffee.
