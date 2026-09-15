@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -63,7 +63,7 @@
 
 ---
 
-## ☕ Support My Work
+##  Support My Work
 
 If you find my projects helpful and would like to support future development, consider buying me a coffee.
 
